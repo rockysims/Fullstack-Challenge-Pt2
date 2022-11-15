@@ -1,0 +1,49 @@
+# node.js
+node_modules/
+npm
+.expo/packager-info.json
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Ruby
+.direnv
+
+# Emacs
+*~
+
+# Vim
+.*.swp
+.*.swo
+.*.swn
+.*.swm
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+
+# Codemod
+.codemod.bookmark
+
+# Bundle artifact
+*.jsbundle
+node_modules
+
+# Eclipse
+.project
+.settings
+
+# VSCode
+.history/
+node_modules
+
+.idea
+package-lock.json
+coverage
+
+.env

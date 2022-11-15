@@ -6,7 +6,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in the brows
 ## Summary:
 In App.js, you will be adding a table to display data of users. This project already includes the necessary dependencies for getting started, but you're also free to add any dependencies you feel will help you tackle this challenge. 
 ## Objectives:
-- After creating the API for Fullstack-Challenge-Pt1, you will create an async thunk action that retrieves the users from the endpoint you created.
+- After creating the API for Fullstack-Challenge-Pt1, you will create an async thunk action that retrieves the users from the endpoint you created and display them in a table.
 - The table should have columns for each of the user fields.
 - The header of each column in the table should sort ascending/descending order.
 

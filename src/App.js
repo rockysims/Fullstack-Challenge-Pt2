@@ -1,13 +1,14 @@
-import { Grid } from 'semantic-ui-react'
+import { Grid } from 'semantic-ui-react';
+import UsersTable from './UsersTable';
 
 function App() {
-  return (
-    <Grid>
-      <Grid.Column>
-        User table here
-      </Grid.Column>
-    </Grid>
-  )
+	return (
+		<Grid>
+			<Grid.Column>
+				<UsersTable></UsersTable>
+			</Grid.Column>
+		</Grid>
+	);
 }
 
 export default App
